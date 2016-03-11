@@ -1,0 +1,18 @@
+SALIDA DEL COMANDO TRIMINO
+==========================
+
+Los argumentos fueron:
+trazar = false; x = 1; y = 1; dimensión = 1; fichero = prueba1.txt
+
+
+# 
+
+
+
+
+# 
+
+
+
+
+FIN DE LA SALIDA

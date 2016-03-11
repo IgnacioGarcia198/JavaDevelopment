@@ -1,0 +1,80 @@
+SALIDA DEL COMANDO TRIMINO
+==========================
+
+Los argumentos fueron:
+trazar = false; x = 13; y = 29; dimensión = 32; fichero = prueba32.txt
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . # . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+
+
+
+4 4 5 5 9 9 A A P P Q Q U U V V R R S S W W X X m m n n r r s s 
+4 3 3 5 9 8 8 A P O O Q U T T V R Q Q S W V V X m l l n r q q s 
+6 3 7 7 B B 8 C R O S S W W T X T Q U U Y Y V Z o l p p t t q u 
+6 6 7 2 2 B C C R R S N N W X X T T U P P Y Z Z o o p k k t u u 
+E E F 2 J J K K Z Z a a N e f f b b c P g g h h w w x x k 1 2 2 
+E D F F J I I K Z Y Y a e e d f b a c c g f f h w v v x 1 1 0 2 
+G D D H L I M M b b Y c g d d h d a a e i f j j y y v z 3 0 0 4 
+G G H H L L M 1 1 b c c g g h h d d e e i i j O O y z z 3 3 4 4 
+k k l l p p q 1 5 5 6 6 A A B B 7 7 8 8 C C D D O S T T X X Y Y 
+k j j l p o q q 5 4 4 6 A 9 9 B 7 6 6 8 C B B D S S R T X W W Y 
+m j n n r o o s 7 4 8 8 C C 9 D 9 6 A A E E B F U R R V Z Z W a 
+m m n i r r s s 7 7 8 3 3 C D D 9 9 A 5 5 E F F U U V V Q Z a a 
+u u v i i z 0 0 F F G 3 K K L L H H I I 5 M N N c c d Q Q h i i 
+u t v v z z y 0 F E G G K J J L H G G I M M L N c b d d h h g i 
+w t t x 1 y y 2 H E E I M J N N J J G K O L L P e b b f j g g k 
+w w x x 1 1 2 2 H H I I M M N 0 0 J K K O O P P e e f f j j k k 
+o o p p t t u u 9 9 A A E E F F 0 B C C G G H H W W X X b b c c 
+o n n p t s s u 9 8 8 A E D D F B B A C G F F H W V V X b a a c 
+q n r r v v s w B 8 C C G G D H D A A E I I F J Y V Z Z d d a e 
+q q r m m v w w B B C 7 7 G H H D D E E 9 I J J Y Y Z U U d e e 
+y y z m 3 3 4 4 J J K K 7 O P P L L M 9 9 Q R R g g h h U l m m 
+y x z z 3 2 2 4 J I I K O O N P L K M M Q Q P R g f f h l l k m 
+0 x x 1 5 2 6 6 L L I M Q N N R N K K O S P P T i i f j n k k o 
+0 0 1 1 5 5 6 l l L M M Q Q R R N N O O S S T T 8 i j j n n o o 
+U U V V Z Z a l p p q q u u v v r r s s w w x 8 8 C D D H H I I 
+U T T V Z Y a a p o o q u t t v r q q s w v x x C C B D H G G I 
+W T X X b Y Y c r o s s w w t x t q u u y v v z E B B F J J G K 
+W W X S b b c c r r s n n w x x t t u p y y z z E E F F A J K K 
+e e f S S j k k z z 0 n # 4 5 5 1 1 2 p p 6 7 7 M M N A A R S S 
+e d f f j j i k z y 0 0 4 4 3 5 1 0 2 2 6 6 5 7 M L N N R R Q S 
+g d d h l i i m 1 y y 2 6 3 3 7 3 0 0 4 8 5 5 9 O L L P T Q Q U 
+g g h h l l m m 1 1 2 2 6 6 7 7 3 3 4 4 8 8 9 9 O O P P T T U U 
+
+
+
+
+FIN DE LA SALIDA

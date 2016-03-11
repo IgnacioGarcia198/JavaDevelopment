@@ -1,0 +1,10 @@
+algunos puntos que comentar:
+
+- El algoritmo teórico para la dimensión 0 no hace nada. Pero, como he hecho que sólo se acepten coordenadas x e y ambas entre 1 y la dimensión 
+(a fin de facilitar la interacción del usuario), habría que introducir un comando de la forma: trimino 1 1 0; esto claramente dará error ya que 
+las coordenadas son mayores que la dimensión.
+
+- El programa está hecho para LINUX, pero está diseñado para ser multiplataforma. Tiene el problema de la distinta codificación de caracteres al 
+escribir en consola. Los textos de ayuda y error se ven mal en Windows por ello. No obstante, ha funcionado y debería funcionar en Windows; de no 
+ser así, habría que revisar el código en un editor de Windows, pues una letra "ñ" o una vocal acentuada en algunos lugares puede causar problemas.
+(Revisar la función patronArchivo de la clase Funciones, cuando usa el método "matches" de la clase String).

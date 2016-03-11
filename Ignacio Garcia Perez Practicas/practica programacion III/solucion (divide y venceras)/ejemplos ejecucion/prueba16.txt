@@ -1,0 +1,48 @@
+SALIDA DEL COMANDO TRIMINO
+==========================
+
+Los argumentos fueron:
+trazar = false; x = 13; y = 7; dimensión = 16; fichero = prueba16.txt
+
+
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . # . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+
+
+
+
+3 3 4 4 8 8 9 9 O O P P T T U U 
+3 2 2 4 8 7 7 9 O N N P T S S U 
+5 2 6 6 A A 7 B Q N R R V V S W 
+5 5 6 1 1 A B B Q Q R M M V W W 
+D D E 1 I I J J Y Y Z M d d e e 
+D C E E I H H J Y X Z Z d c c e 
+F C C G K H L L a X X b # f c g 
+F F G G K K L 0 a a b b f f g g 
+j j k k o o p 0 0 4 5 5 9 9 A A 
+j i i k o n p p 4 4 3 5 9 8 8 A 
+l i m m q n n r 6 3 3 7 B B 8 C 
+l l m h q q r r 6 6 7 7 2 B C C 
+t t u h h y z z E E F 2 2 J K K 
+t s u u y y x z E D F F J J I K 
+v s s w 0 x x 1 G D D H L I I M 
+v v w w 0 0 1 1 G G H H L L M M 
+
+
+
+
+FIN DE LA SALIDA
